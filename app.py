@@ -33,8 +33,6 @@
 
 user_input = "random"
 data = []
-
-
 def show_menu():
     print("Menu:")
     print("1. Add an item")
